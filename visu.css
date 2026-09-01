@@ -1,0 +1,21 @@
+.chetos{
+    COLOR:#3354ED; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.bolitas{
+    color: firebrick;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+}
+
+h1.chetos{
+    color: cornflowerblue;
+
+}
+
+body{
+    background-color:black
+    ;
+}
